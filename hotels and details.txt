@@ -1,0 +1,10 @@
+New York Marriott Marquis                031 Rooms Available       $1200/Night for double occupancy
+New York Hilton Midtown                  321 Rooms Available       $1100/Night for double occupancy
+Sheraton New York Times Square Hotel     038 Rooms Available       $1800/Night for double occupancy
+Hotel Pennsylvania                       024 Rooms Available       $3400/Night for double occupancy
+Grand Hyatt New York                     020 Rooms Available       $2200/Night for double occupancy
+Row NYC                                  003 Rooms Available       $1200/Night for double occupancy
+Waldorf Astoria New York                 000 Rooms Available       $1000/Night for double occupancy
+New Yorker Hotel                         017 Rooms Available       $1800/Night for double occupancy
+The Roosevelt Hotel                      248 Rooms Available       $1750/Night for double occupancy
+Park Central Hotel                       356 Rooms Available       $3450/Night for double occupancy

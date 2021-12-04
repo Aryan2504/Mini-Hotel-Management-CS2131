@@ -1,0 +1,6 @@
+Alan Hotel                 003 Rooms Available       $3200/Night for double occupancy
+Ambassador Hotel           031 Rooms Available       $2200/Night for double occupancy
+Andaz West Hollywood       321 Rooms Available       $4100/Night for double occupancy
+The Beverly Hills Hotel    356 Rooms Available       $5450/Night for double occupancy
+The Beverly Hilton         020 Rooms Available       $6200/Night for double occupancy
+Beverly Wilshire Hotel     321 Rooms Available       $8100/Night for double occupancy                  
